@@ -1,12 +1,12 @@
 [
   {
-    "ManifestString": "7500062053385944746",
+    "ManifestString": "4350859901318817364",
     "FriendlyName": " January 18th, 2017",
     "ManifestPatchInfo": {
       "AssemmblyURL": "https://cdn.discordapp.com/attachments/835502486190030918/846555253071282187/Assembly-CSharp.dll",
       "AssemmblyHash": "b3133d153a7cb10ea5436273d8d40e84",
-      "PUNAppIDOffset": 165303984,
-      "VoiceAppIDOffset": 165304024
+      "PUNAppIDOffset": 3e6995dd,
+      "VoiceAppIDOffset": f847dfd0
     },
     "RequiresRecNet": true,
     "ServerName": "VaultServer2018"
