@@ -1,10 +1,10 @@
 [
   {
-    "ManifestString": "4350859901318817364",
-    "FriendlyName": " January 18th, 2017",
+    "ManifestString": "2538457149791015466",
+    "FriendlyName": " November 15th, 2018",
     "ManifestPatchInfo": {
-      "AssemmblyURL": "https://cdn.discordapp.com/attachments/847914591303893002/848207464893120512/Assembly-CSharp.dll",
-      "AssemmblyHash": "bf6ebee8e1c9a0d850f7a201417992ff",
+      "AssemmblyURL": "https://cdn.discordapp.com/attachments/798662798062125106/848302954993025064/Assembly-CSharp.dll",
+      "AssemmblyHash": "d4f576aacab304b0d2bdbe1ae9d5bbb0",
       "PUNAppIDOffset": 165303984,
       "VoiceAppIDOffset": 165304024
     },
